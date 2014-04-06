@@ -1,0 +1,3 @@
+cd /home/miguel/Documentos/tg
+./telegram
+add_contact 9512292201 9512292201 Diego 

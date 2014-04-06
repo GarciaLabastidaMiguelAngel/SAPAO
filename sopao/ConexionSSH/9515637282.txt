@@ -1,0 +1,3 @@
+cd /home/miguel/Documentos/tg
+./telegram
+add_contact 9515637282 9515637282 armando

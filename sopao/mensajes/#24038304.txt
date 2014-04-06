@@ -1,0 +1,3 @@
+cd /home/miguel/Documentos/tg
+./telegram
+msg user#24038304 segunda prueba

@@ -1,0 +1,19 @@
+Welcome to Ubuntu 13.10 (GNU/Linux 3.11.0-19-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+Last login: Sun Apr  6 14:14:57 2014 from localhost
+cd /home/miguel/Documentos/tg
+./telegram
+add_contact 9512292201 9512292201 Diego 
+miguel@vaio:~$ cd /home/miguel/Documentos/tg
+miguel@vaio:~/Documentos/tg$ ./telegram
+Telegram-client version 0.01-beta, Copyright (C) 2013 Vitaly Valtman
+Telegram-client comes with ABSOLUTELY NO WARRANTY; for details type `show_license'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type `show_license' for details.
+> add_contact 9512292201 9512292201 Diego 
+> [K[37;1m *** Not added[0m> [K[33;1mUser [0;31m[1;31m9511975748 mauricio[0;31m[33;1m: 1 unread
+User [0;31m[1;31m9512222618 jose[0;31m[33;1m: 2 unread
+User [0;31m[1;31mmike kat[0;31m[33;1m: 0 unread
+[0m> 
